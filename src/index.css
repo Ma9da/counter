@@ -4,6 +4,16 @@ div{
   border-radius: 8px;
   margin: 10px;
 }
+button{
+  padding: 10px 15px;
+    margin: 10px;
+    border-radius: 19px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: yellow;
+    background: blue;
+    border: 0;
+}
 .green{
   color: green;
   background-color: palegreen;
@@ -11,4 +21,5 @@ div{
 .red{
   color: red;
   background-color: #ffb7aa;
+  border-left: 5px solid;
 }
