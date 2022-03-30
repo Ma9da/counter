@@ -1,0 +1,14 @@
+div{
+  width: fit-content;
+  padding: 11px 17px;
+  border-radius: 8px;
+  margin: 10px;
+}
+.green{
+  color: green;
+  background-color: palegreen;
+}
+.red{
+  color: red;
+  background-color: #ffb7aa;
+}
